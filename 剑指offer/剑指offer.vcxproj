@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="FindPath.cpp" />
+    <ClCompile Include="GetNext.cpp" />
     <ClCompile Include="HasSubtree.cpp" />
     <ClCompile Include="IsBalanced_Solution.cpp" />
     <ClCompile Include="IsPopOrder.cpp" />
