@@ -115,6 +115,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="HasSubtree.cpp" />
+    <ClCompile Include="IsPopOrder.cpp" />
+    <ClCompile Include="nin_stack.cpp" />
+    <ClCompile Include="reConstructBinaryTree.cpp" />
+    <ClCompile Include="stack_queue.cpp" />
+    <ClCompile Include="deleteDuplication.cpp" />
+    <ClCompile Include="EntryNodeOfLoop.cpp" />
+    <ClCompile Include="FindFirstCommonNode.cpp" />
+    <ClCompile Include="mergelist.cpp" />
+    <ClCompile Include="printlist.cpp" />
+    <ClCompile Include="RandomListNode.cpp" />
+    <ClCompile Include="ReverseList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
