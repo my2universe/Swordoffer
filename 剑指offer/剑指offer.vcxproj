@@ -115,18 +115,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Convert.cpp" />
+    <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="FindPath.cpp" />
     <ClCompile Include="GetNext.cpp" />
     <ClCompile Include="HasSubtree.cpp" />
     <ClCompile Include="IsBalanced_Solution.cpp" />
     <ClCompile Include="IsPopOrder.cpp" />
     <ClCompile Include="isSymmetrical.cpp" />
+    <ClCompile Include="jumpFloor.cpp" />
+    <ClCompile Include="jumpfloorII.cpp" />
+    <ClCompile Include="KthNode.cpp" />
     <ClCompile Include="MirrorTreeNode.cpp" />
     <ClCompile Include="nin_stack.cpp" />
     <ClCompile Include="Print.cpp" />
     <ClCompile Include="PrintFromTopToBottom.cpp" />
     <ClCompile Include="Printz.cpp" />
     <ClCompile Include="reConstructBinaryTree.cpp" />
+    <ClCompile Include="rectCover.cpp" />
     <ClCompile Include="Serialize.cpp" />
     <ClCompile Include="stack_queue.cpp" />
     <ClCompile Include="deleteDuplication.cpp" />

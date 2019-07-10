@@ -84,5 +84,23 @@
     <ClCompile Include="Serialize.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="KthNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Convert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Fibonacci.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="jumpFloor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="jumpfloorII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rectCover.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
