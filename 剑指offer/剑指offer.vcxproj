@@ -120,9 +120,11 @@
     <ClCompile Include="HasSubtree.cpp" />
     <ClCompile Include="IsBalanced_Solution.cpp" />
     <ClCompile Include="IsPopOrder.cpp" />
+    <ClCompile Include="isSymmetrical.cpp" />
     <ClCompile Include="MirrorTreeNode.cpp" />
     <ClCompile Include="nin_stack.cpp" />
     <ClCompile Include="PrintFromTopToBottom.cpp" />
+    <ClCompile Include="Printz.cpp" />
     <ClCompile Include="reConstructBinaryTree.cpp" />
     <ClCompile Include="stack_queue.cpp" />
     <ClCompile Include="deleteDuplication.cpp" />
