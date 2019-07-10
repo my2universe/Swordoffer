@@ -78,5 +78,11 @@
     <ClCompile Include="Printz.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Print.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Serialize.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

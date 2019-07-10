@@ -123,9 +123,11 @@
     <ClCompile Include="isSymmetrical.cpp" />
     <ClCompile Include="MirrorTreeNode.cpp" />
     <ClCompile Include="nin_stack.cpp" />
+    <ClCompile Include="Print.cpp" />
     <ClCompile Include="PrintFromTopToBottom.cpp" />
     <ClCompile Include="Printz.cpp" />
     <ClCompile Include="reConstructBinaryTree.cpp" />
+    <ClCompile Include="Serialize.cpp" />
     <ClCompile Include="stack_queue.cpp" />
     <ClCompile Include="deleteDuplication.cpp" />
     <ClCompile Include="EntryNodeOfLoop.cpp" />
